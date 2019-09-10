@@ -22,6 +22,7 @@ public class MyClass {
 
     private static void feature4() {
         // TODO - print "Feature #4"
+        // making big boi moves in a gangster town
     }
 
     private static void feature5() {
