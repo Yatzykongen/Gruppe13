@@ -12,6 +12,7 @@ public class MyClass {
 
     private static void feature2() {
         // TODO - print "Feature #2"
+        // Jeg liker enkli ikke git :) 
     }
 
     private static void feature3() {
