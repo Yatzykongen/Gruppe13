@@ -17,6 +17,7 @@ public class MyClass {
 
     private static void feature3() {
         // TODO - print "Feature #3"
+        // Hei sondre
     }
 
     private static void feature4() {
